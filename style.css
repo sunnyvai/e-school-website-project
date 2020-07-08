@@ -1,0 +1,378 @@
+//**header area starts**//
+.logo-image {
+  max-width: 176px;
+}
+
+
+       .navbar a{
+       	color: #000000;
+       	font-size: 16px
+       	line-height:24px;
+       	padding: 5px;
+
+       }
+
+
+
+
+#navbarNav li a:hover {
+  background: #32db9c;
+  border-radius: 55px;
+  color: #fff;
+}
+
+#navbarNav li {
+  padding: 0px 20px;
+}
+
+
+
+
+#navbarNav li:hover {
+  background: #32db9c;
+  border-radius: 55px;
+}
+
+#navbarNav li {
+  padding: 0px 20px;
+}
+
+
+
+
+
+.header-image {
+  max-width: 554px;
+  height: 364px;
+}
+
+
+
+.text-image-section {
+  margin-top: 77px;
+}
+
+
+
+.text-area h6 {
+  color: #ec8c0c;
+}
+
+.text-area h1 {
+  font-size: 48px;
+  font-weight: bold;
+  line-height: 70px;
+}
+
+.text-area span {
+  color: #4a984f;
+}
+
+.text-area {
+  padding-left: 0;
+  padding-right: 176px;
+}
+
+
+/* bootstrap.min.css | file:///C:/Users/Jubi/Desktop/new/css/bootstrap.min.css */
+
+img {
+  max-width: 250px;
+}
+
+
+
+
+
+.text-area h6 {
+  color: #ec8c0c;
+}
+
+.text-area h1 {
+  font-size: 48px;
+  font-weight: bold;
+  line-height: 70px;
+}
+
+.text-area span {
+  color: #4a984f;
+}
+
+.text-area {
+  padding-left: 0;
+  padding-right: 176px;
+}
+
+.header-bg {
+  background: #f0fff0;
+  margin-bottom: 100px
+}
+
+
+/* Inline #5 | file:///C:/Users/Jubi/Desktop/new/index8.html# */
+
+.btn {
+  padding: 10px 20px;
+  border-radius: 26px;
+}
+
+.nav-settings {
+ 
+  padding-top: 32px;
+}
+
+
+
+.header-bg {
+  padding: 78px;
+}
+
+//**header area ends**//
+
+
+
+
+.card {
+  padding: 47px;
+}
+
+.four-services img {
+  max-width: 79px;
+  margin: 0 auto;
+}
+
+.four-services {
+  /* padding: 47px; */
+  padding: 20px;
+  text-align: center;
+}
+
+.promotion-area {
+	margin-bottom: 100px
+}
+
+
+.four-services:hover {
+  box-shadow: 1px 5px 15px gray;
+  background: none;
+}
+
+
+
+.four-services {
+  border: none;
+  background: aliceblue;
+}
+
+
+
+.card-footer img {
+  max-width: 20px;
+}
+
+
+
+.card-1, .card-2 {
+  display: inline;
+ 
+}
+
+.card-1 {
+  margin: 0px -15px;
+}
+
+.card-2 {
+  margin: 0 70px;
+}
+
+
+
+
+//**card ends**//
+
+
+
+
+
+
+.textstimonial {
+  max-width: 127px;
+}
+
+.section-padding {
+  margin: ;
+}
+
+.three-section {
+  margin-bottom: 100px;
+}
+
+.section-padding h1 {
+  
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.four-services img {
+  display: block;
+}
+
+.section-padding img {
+  max-width: 158px;
+  display: block;
+  margin: 0 auto;
+  margin-right: 76px;
+}
+
+
+
+
+/* Inline #5 | file:///C:/Users/Jubi/Desktop/new/index8.html# */
+
+.testimonial-area {
+}
+
+.testimonial-area {
+}
+
+.testimonial-area {
+  margin-left: 120px;
+  margin-top: 40px;
+}
+
+
+/* Inline #5 | file:///C:/Users/Jubi/Desktop/new/index8.html# */
+
+
+
+.testimonial-area {
+  margin-left: 142px;
+  margin-top: 40px;
+}
+
+/* Inline #4 | file:///C:/Users/Jubi/Desktop/new/index8.html# */
+
+.textimonial-text {
+  /* padding: 55px; */
+  padding: 34px;
+}
+
+
+//***testimonial end*****///
+
+
+/* Inline #5 | file:///C:/Users/Jubi/Desktop/new/index8.html# */
+
+.footer-area {
+  background: #2a2a2b;
+  color: aliceblue;
+  padding: 30px 0;
+}
+
+.\32 nd-section ul {
+  marign: 0;
+  padding: 0;
+  list-style: none;
+}
+
+
+
+/* Inline #4 | file:///C:/Users/Jubi/Desktop/new/index8.html# */
+
+.section-padding {
+  margin-bottom: 100px;
+}
+
+/* Inline #5 | file:///C:/Users/Jubi/Desktop/new/index8.html# */
+
+
+.footer-first {
+  padding: 0 38px;
+}
+
+.menu-area h5 {
+}
+
+.menu-area li {
+  color: #d2d2d2;
+  font-size: 14px;
+}
+
+
+.footer {
+  background: #333232;
+  color: aliceblue;
+  padding: 38px;
+}
+
+
+.images1 {
+  padding: -31px;
+}
+
+.logo-image {
+  max-width: 178px;
+}
+
+
+.images1 {
+  max-width: 366px;
+  padding: 20px;
+}
+
+
+.card1, .card2 {
+  display: inline;
+}
+
+
+
+.card-footer {
+  font-size: 10px;
+  padding-right: 33px;
+}
+
+
+
+
+.card1 {
+  margin: 0 36px;
+}
+
+.card-footer {
+  font-size: 10px;
+  padding-right: 33px;
+}
+
+
+
+
+
+.course-area {
+  margin-bottom: 100px;
+}
+
+
+.course-area {
+  margin-bottom: 100px;
+}
+
+.card {
+  border: none;
+  background: #f8f8f8;
+}
+
+.card-footer {
+  background: none;
+  border: none;
+}
+
+
+
+
+
+
+
+    	
